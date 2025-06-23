@@ -1,3 +1,2 @@
-# my-test-remote-repo
+# Test repository for storing weather data scheduled via Apache Airflow
 
-mushi mushi
